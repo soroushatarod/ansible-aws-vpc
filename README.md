@@ -43,4 +43,4 @@ MIT / BSD
 Author Information
 ------------------
 
-<a href="https://infinitypp.com">Atarod</a>  <s.atarod@infinitypp.com> 
+<a href="https://infinitypp.com">Atarod</a>  <atarod@infinitypp.com> 
